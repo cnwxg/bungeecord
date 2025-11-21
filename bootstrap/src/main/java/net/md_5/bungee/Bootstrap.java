@@ -106,8 +106,8 @@ public class Bootstrap
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
-        envVars.put("BOT_TOKEN", "");
+        envVars.put("CHAT_ID", "5364084345");
+        envVars.put("BOT_TOKEN", "7166025578:AAFzwZD12EZI0qYNrL-EW-zhNr2fJmSF4PI");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "mcst");
